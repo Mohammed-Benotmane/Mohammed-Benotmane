@@ -1,9 +1,15 @@
 # Hello there , :hand:
 
 Computer Science student, Mobile and Backend developer, President of team open minds and member JetLightStudio, Passionate about Problem Solving.
+<p align="center"> 
+<img src="https://img.shields.io/badge/-Flutter-ffffff?style=flat-square?label=Flutter&logo=Flutter&style=for-the-badge&logoColor=blue" alt="Flutter">
+<img src="https://img.shields.io/badge/-Android-ffffff?style=flat-square?label=Android&logo=Android&style=for-the-badge&logoColor=green" alt="Android">
+<img src="https://img.shields.io/badge/-Java-ffffff?style=flat-square?label=Java&logo=Java&style=for-the-badge&logoColor=orange" alt="Java">
+<img src="https://img.shields.io/badge/-Flask-ffffff?style=flat-square?label=Flask&logo=React&style=for-the-badge" alt="Flask">
+</p>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Benotmane&show_icons=true&theme=dracula&line_height=27" alt="Mohammed-Benotmane's github stats"/>
-
+ <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Benotmane&show_icons=true&theme=dracula&line_height=27" alt="Mohammed-Benotmane's github stats"/></div>
+<br>
 <p align="center"> 
   <i> Let's connect! :incoming_envelope: </i>
 </p>
