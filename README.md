@@ -3,6 +3,7 @@
 Computer Science student, Mobile and Backend developer, President of team open minds and member JetLightStudio, Passionate about Problem Solving.
 <p align="center"> 
 <img src="https://img.shields.io/badge/-Flutter-ffffff?style=flat-square?label=Flutter&logo=Flutter&style=for-the-badge&logoColor=blue" alt="Flutter">
+<img src="https://img.shields.io/badge/-Unity-ffffff?style=flat-square?label=Unity&logo=Unity&style=for-the-badge&logoColor=black" alt="Unity">
 <img src="https://img.shields.io/badge/-Android-ffffff?style=flat-square?label=Android&logo=Android&style=for-the-badge&logoColor=green" alt="Android">
 <img src="https://img.shields.io/badge/-Java-ffffff?style=flat-square?label=Java&logo=Java&style=for-the-badge&logoColor=orange" alt="Java">
 <img src="https://img.shields.io/badge/-Flask-ffffff?style=flat-square?label=Flask&logo=React&style=for-the-badge" alt="Flask">
