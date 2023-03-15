@@ -1,6 +1,6 @@
 # Hello there , :hand:
 
-Computer Science student, Mobile and Backend developer, President of team open minds and member JetLightStudio, Passionate about Problem Solving.
+Software Developer at Evercam, Passionate about Problem Solving & Mobile Dev.
 <p align="center"> 
 <img src="https://img.shields.io/badge/-Flutter-ffffff?style=flat-square?label=Flutter&logo=Flutter&style=for-the-badge&logoColor=blue" alt="Flutter">
 <img src="https://img.shields.io/badge/-Unity-ffffff?style=flat-square?label=Unity&logo=Unity&style=for-the-badge&logoColor=black" alt="Unity">
